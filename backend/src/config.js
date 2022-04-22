@@ -55,7 +55,7 @@ const CONTRACT_SYMBOL = "WDV";
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = "0x09A0C44E5f206b3220C70b4b0236fBC5e01f2AA1";
 const TREASURY_ADDRESS = "0x09A0C44E5f206b3220C70b4b0236fBC5e01f2AA1";
-const MAX_SUPPLY = 500; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = 0.001; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 2; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
